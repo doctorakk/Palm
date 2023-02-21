@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "نخلة",
+    "description": "",
+    "home_page_url": "https://palmtree.netlify.app",
+    "feed_url": "https://palmtree.netlify.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "سعفان"
+    },
+    "items": [
+    ]
+}
